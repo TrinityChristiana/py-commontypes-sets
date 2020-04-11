@@ -98,12 +98,6 @@ for (model_num, model_name, make_key) in models:
         if make_num == make_key:
             car_dict[make_name][model_name] = []
 
-print(car_dict)
-# car_dict = {y for x in models for y in makes}
-# print("*******************")
-# d = {car_dict[v[1]] for k in models for v in makes if v[0] == k[2]}
-# print(d)
-
 # # Will hold the colors to model relationships
 model_to_color_dict = {}
 
