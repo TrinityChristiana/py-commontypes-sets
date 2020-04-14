@@ -3,7 +3,7 @@
 print("************ Matching Makes & Models ************************* \n")
 """
 Author: Trinity Terry
-pyrun: ython sets-car.py 
+pyrun: python sets-car.py 
 """
 
 # (make_num, make_name)
